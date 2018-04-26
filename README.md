@@ -1,0 +1,5 @@
+# To-Walk-A-Mile-In-Someone-Else's-Shoes
+
+To Walk A Mile In Someone Else's Shoes is an HTC Vive virtual reality experience that provides a simula�on of what it might be like to have a specific visual, cogni�ve or auditory disorder. Using sound and visual cues, users can experience what someone with a specific disorder might see or hear. Users can also view more informa�on on these disorders and even combine them in order to educate themselves on how life-altering these disorders can be.
+
+My inspiration for To Walk a Mile in Someone Else’s Shoes originated from a discussion about disabilities, their effects, and their consequences in the education system and workforce. I believe that empathy can only go so far in terms of relating to someone and being able to help them, so this project attempted to encourage an understanding of what these disorders or disabilities are like and provide users with a means of engaging with these difficult experiences.
